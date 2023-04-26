@@ -10,6 +10,7 @@ public class FirstConflictApplication {
 		SpringApplication.run(FirstConflictApplication.class, args);
 		System.out.println("hi koushik hello");
 		System.out.println("bye");
+
 	}
 
 }
