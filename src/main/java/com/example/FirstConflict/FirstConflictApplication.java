@@ -13,6 +13,7 @@ public class FirstConflictApplication {
 		System.out.println("hii mehadi");
 
 
+		System.out.println("NO Conflict");
 	}
 
 }
