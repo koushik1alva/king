@@ -8,7 +8,9 @@ public class FirstConflictApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstConflictApplication.class, args);
+
 		System.out.println("hi mehadi hello");
+
 	}
 
 }
